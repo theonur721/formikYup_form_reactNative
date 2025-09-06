@@ -3,13 +3,6 @@
 Bu proje, **React Native** uygulamalarında form doğrulaması yapmak için kullanılan **Formik** ve **Yup** kütüphanelerini içermektedir.  
 Amaç, kullanıcıdan alınan form verilerini kontrol etmek ve güvenilir bir kayıt formu oluşturmaya yönelik bir örnek sunmaktır.
 
-## 📌 Proje İçeriği
-
-- **Formik**: Form yönetimi ve form verilerinin işlenmesi
-- **Yup**: Form alanlarının doğrulanması için şema tabanlı doğrulama
-- **React Native**: Mobil uygulama geliştirme platformu
-- **UI Kitten**: Modern ve özelleştirilebilir UI bileşenleri
-
 ## ✨ Özellikler
 
 - Kullanıcı **isim, soyisim, e-posta, telefon, şifre ve şifre tekrar** alanları ile kayıt olabilir
@@ -29,4 +22,5 @@ Amaç, kullanıcıdan alınan form verilerini kontrol etmek ve güvenilir bir ka
 ## GIF
 
 ![](src/assets/ekran.gif)
+
 # formikYup_form_reactNative
